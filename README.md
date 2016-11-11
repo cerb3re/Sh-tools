@@ -5,10 +5,14 @@
 ```
 [About this]
 
-The projet is a personnal research about PhP in Unix Terminal. 
+The projet is a personnal research about Scripting in Unix Terminal. 
 Composed of tools in 'sh'.
 ```
 ====
+
+## How to:
+- in your unix system		: Use "ctrl+alt+t"
+- in your terminal system	: Use "sh ./[the tools.sh]"
 
 ## From
 
