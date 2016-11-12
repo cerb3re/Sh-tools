@@ -12,7 +12,7 @@ Composed of tools in 'sh'.
 
 ## How to:
 - in your unix system		: Use "ctrl+alt+t"
-- in your terminal system	: Use "sh ./[the tools.sh]"
+- in your terminal system	: Use "sh ./[the tools].sh"
 
 ## From
 
